@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/jw222/jw222.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a senior student major in Computer Engineering at the University of Illinois at Urbana-Champaign. I'm planning to go to graduate school directly starting Fall 2021 for a master's program with focus on computer science or computer engineering. I'm also looking for internship opportunities related to software engineering both during academic semesters or summer break. Currently, I'm working with Professor Bryan K Clark on a research project that solves generalized time dependent Schrölinger equatinos by using machine learning techniques. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project List
 
-### Markdown
+- Bulleted Community Project [Link] (https://github.com/jw222/community)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Bulleted Distributed System Project [Link] (https://github.com/jw222/DistributedSystem)
 
-```markdown
-Syntax highlighted code block
+- Bulleted Data Visualization Project [Link] (https://github.com/jw222/CS-296-Project-2)
 
-# Header 1
-## Header 2
-### Header 3
+- Bulleted Previous Research on Classifying Gravitational Waves by Machine Learning [Link] (https://github.com/jw222/Gravitational-Wave)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jw222/jw222.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to send me an email at wangjiangran3@gmail.com.
