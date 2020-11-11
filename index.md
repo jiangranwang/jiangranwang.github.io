@@ -10,7 +10,7 @@ Currently, I'm working with Professor Bryan K Clark on a research project that s
 
 - [Distributed System Project](https://github.com/jw222/DistributedSystem): A simplified map-reduce system with distributed file system written in Go
 
-- [Data Visualization Project](https://github.com/jw222/CS-296-Project-2): A data visualization on the growth of the number of domestic students over the past 20 years
+- [Data Visualization Project](https://github.com/jw222/CS-296-Project-2): A data visualization on the growth of the number of domestic students over the past 20 years written in JavaScript
 
 - [Previous Research on Classifying Gravitational Waves by Machine Learning](https://github.com/jw222/Gravitational-Wave): Written in Python and TensorFlow
 
