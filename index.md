@@ -6,11 +6,11 @@ Currently, I'm working with Professor Bryan K Clark on a research project that s
 
 ## Project List
 
-- [Community Project](https://github.com/jw222/community): An online community written in Java where users can post and reply questions
+- [Discussion Forum](https://github.com/jw222/community): An online community written in Java where users can post and reply questions
 
-- [Distributed System Project](https://github.com/jw222/DistributedSystem): A simplified map-reduce system with distributed file system written in Go
+- [Distributed System](https://github.com/jw222/DistributedSystem): A simplified map-reduce system with distributed file system written in Go
 
-- [Data Visualization Project](https://github.com/jw222/CS-296-Project-2): A data visualization on the growth of the number of domestic students over the past 20 years written in JavaScript
+- [Data Visualization](https://github.com/jw222/CS-296-Project-2): A data visualization on the growth of the number of domestic students over the past 20 years written in JavaScript
 
 - [Previous Research on Classifying Gravitational Waves by Machine Learning](https://github.com/jw222/Gravitational-Wave): Written in Python and TensorFlow
 
