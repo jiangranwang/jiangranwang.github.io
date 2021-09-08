@@ -1,8 +1,9 @@
 ## About Me
 
-I'm a senior student major in Computer Engineering at University of Illinois at Urbana-Champaign. I'm planning to go to graduate school directly starting Fall 2021 for a master's program with focus on either computer science or computer engineering. I'm also looking for internship opportunities related to software engineering both during academic semesters or summer break. 
+I'm a first year master student major in Electrical and Computer Engineering at University of Illinois at Urbana-Champaign. I also did my undergraduate degree major in Computer Engineering at UIUC during the last four years. Right now I'm a student in Distributed Protocols Research Group at UIUC and my primary research focus is all aspects of distributed systems. My current research project focuses on failure detection on IoT systems.
 
-Currently, I'm working with Professor Bryan K Clark on a research project that solves generalized time dependent Schrölinger equatinos by using machine learning techniques. 
+## Work Experience
+- June 2021 - August 2021: Software engineer intern at Rockset
 
 ## Project List
 
@@ -14,4 +15,7 @@ Currently, I'm working with Professor Bryan K Clark on a research project that s
 
 - [Previous Research on Classifying Gravitational Waves by Machine Learning](https://github.com/jw222/Gravitational-Wave): Written in Python and TensorFlow
 
-Feel free to send me an email at wangjiangran3@gmail.com.
+## Publication
+- Wang, J., Chen, Z., Luo, D., Zhao, Z., Hur, V.M., & Clark, B. (2021). Spacetime Neural Network for High Dimensional Quantum Dynamics. ArXiv, abs/2108.02200. Submitted to ICML workshop
+
+Feel free to send me an email at jw22@illinois.com or wangjiangran3@gmail.com
