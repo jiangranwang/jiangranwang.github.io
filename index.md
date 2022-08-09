@@ -1,8 +1,9 @@
 ## About Me
 
-I'm a first year master student major in Electrical and Computer Engineering at University of Illinois at Urbana-Champaign. I also did my undergraduate degree major in Computer Engineering at UIUC during the last four years. Right now I'm a student in Distributed Protocols Research Group at UIUC and my primary research focus is all aspects of distributed systems. My current research project focuses on failure detection on IoT systems.
+I'm a second year master student major in Electrical and Computer Engineering at University of Illinois at Urbana-Champaign. I also did my undergraduate degree major in Computer Engineering at UIUC during the last four years. Right now I'm a student in Distributed Protocols Research Group at UIUC and my primary research focus is all aspects of distributed systems. My current research project focuses on failure detection on IoT systems.
 
 ## Work Experience
+- May 2022 - August 2022: Software engineer intern at Meta
 - June 2021 - August 2021: Software engineer intern at Rockset
 
 ## Project List
@@ -18,4 +19,4 @@ I'm a first year master student major in Electrical and Computer Engineering at 
 ## Publication
 - Wang, J., Chen, Z., Luo, D., Zhao, Z., Hur, V.M., & Clark, B. (2021). Spacetime Neural Network for High Dimensional Quantum Dynamics. ArXiv, abs/2108.02200. Submitted to ICML workshop
 
-Feel free to send me an email at jw22@illinois.com or wangjiangran3@gmail.com
+Feel free to send me an email at wangjiangran3@gmail.com
