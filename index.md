@@ -1,6 +1,9 @@
-## About Me
+## Jiangran Wang
 
 I'm a second year master student major in Electrical and Computer Engineering at University of Illinois at Urbana-Champaign. I also did my undergraduate degree major in Computer Engineering at UIUC during the last four years. Right now I'm a student in Distributed Protocols Research Group at UIUC and my primary research focus is all aspects of distributed systems. My current research project focuses on failure detection on IoT systems.
+
+## CV/Resume
+[Jiangran Wang Detailed Resume.pdf](https://github.com/jiangranwang/jiangranwang.github.io/files/11746547/Jiangran.Wang.Detailed.Resume.pdf)
 
 ## Work Experience
 - May 2022 - August 2022: Software engineer intern at Meta
